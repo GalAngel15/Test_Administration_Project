@@ -1,0 +1,14 @@
+question 1: open?
+	Open
+question 2: 9 * 5 = ?
+	1) 10	( false)
+	2) more then one answer is correct	( false)
+	3) no answer is correct	( true)
+
+question 3: Choice
+	1) false	( false)
+	2) Choice	( true)
+	3) more then one answer is correct	( false)
+	4) no answer is correct	( true)
+
+

@@ -1,0 +1,8 @@
+**.class # Compiled class file
+.classpath
+.project
+.settings
+target
+bin
+/.factorypath
+*.log
